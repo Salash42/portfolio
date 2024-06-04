@@ -19,7 +19,7 @@ export default function Home() {
           <p className='text-sm'>Reach for <b> Great</b>, Is What Inspires Us. </p>
 
           <div className='flex flex-row space-x-3'>
-            <a href="https://wa.me/+60 10-212 8575" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/+60102128575" target="_blank" rel="noopener noreferrer">
               <Image src={Whatsapp} alt={'WhatsApp icon'} className='p-3' width={60} height={60} />
             </a>
             <a href="tel:+60 10-212 8575">
