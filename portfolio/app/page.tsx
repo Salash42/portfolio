@@ -16,7 +16,7 @@ export default function Home() {
                 Will Writing Associates.</h1>
 
 
-          <p className='text-sm'>Reach for <b> Great</b>, Is What Inspires Us. </p>
+          <p className='text-sm pb-2'>Reach for <b> Great</b>, Is What Inspires Us. </p>
 
           <div className='flex flex-row space-x-3'>
             <a href="https://wa.me/+60102128575" target="_blank" rel="noopener noreferrer">
